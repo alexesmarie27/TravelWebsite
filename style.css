@@ -1,7 +1,6 @@
 body{
 	background-image: url("background.jpg");
 	
-	background-repeat: no-repeat;
 }
 		
 .buttonMenu {
@@ -116,6 +115,11 @@ form{
 	margin: 0 auto;
 	text-align: center;
 	margin-top: 125px;
+}
+
+.pass{
+	font-weight: bold;
+	color: red;
 }
 
 <!-- Clear Hack -->
